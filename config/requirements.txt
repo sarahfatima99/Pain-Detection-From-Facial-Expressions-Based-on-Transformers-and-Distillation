@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+opencv-python
+pillow
+numpy
+matplotlib
+tqdm
+scikit-learn
+facenet-pytorch
+mediapipe

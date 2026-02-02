@@ -1,0 +1,11 @@
+/Teacher_.py
+/dataset_unprocessed
+/dataset_processed/test/no_pain
+/dataset_processed/test/pain
+/dataset_processed/train/pain
+/dataset_processed/train/no_pain
+/dataset_processed/Validation/no_pain
+/dataset_processed/Validation/pain
+/attention_heapmap.py
+/model
+/test_images
