@@ -1,6 +1,8 @@
-access dataset at: https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/WCXMAP
+Access dataset at: https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/WCXMAP
 
-Dataset structure:
+## Dataset structure
+
+```text
 DATASET_PROCESSED/
 ├── train/
 │   ├── pain/
